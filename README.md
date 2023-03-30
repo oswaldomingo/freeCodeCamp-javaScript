@@ -2,119 +2,119 @@
 Ejercicios de javaScript de freecodecamp
 Haciendo la certificación de Algoritmos de JavaScript y Estructuras de Datos.
 
-Comenta tu código de JavaScript
+Comenta tu código de JavaScript <br>
+Declara variables de JavaScript <br>
+Almacenar valores con el operador de asignación <br>
+Asigna el valor de una variable a otra variable <br>
+Inicializa variables con el operador de asignación <br>
+Declara variables de cadena <br>
+Comprendiendo las variables no inicializadas <br>
+Comprendiendo la sensibilidad de mayúsculas en las variables <br>
+Explora las diferencias entre las palabras claves var y let <br>
+Declara una variable de solo lectura con la palabra clave const <br>
+Suma dos números con JavaScript <br>
+Resta un número de otro con JavaScript <br>
+Multiplica dos números con JavaScript <br>
+Divide un número entre otro con JavaScript <br>
+Incrementa un número con JavaScript <br>
+Decrementa un número con JavaScript <br>
+Crea números decimales con JavaScript <br>
+Multiplica dos números decimales con JavaScript <br>
+Divide un decimal entre otro con JavaScript <br>
+Encuentra un resto en JavaScript <br>
+Asignación compuesta con adición aumentada <br>
+Asignación compuesta con resta aumentada <br>
+Asignación compuesta con multiplicación aumentada <br>
+Asignación compuesta con división aumentada <br>
+Escapa comillas literales en cadenas <br>
+Cita cadenas con comillas simples <br>
+Escapa secuencias en cadenas <br>
+Concatena cadenas con el operador "más" <br>
+Concatena cadenas con el operador "más igual" <br>
+Construye cadenas con variables <br>
+Agrega variables a cadenas <br>
+Encuentra la longitud de una cadena <br>
+Utiliza la notación de corchetes para encontrar el primer carácter en una cadena <br>
+Comprende la inmutabilidad de las cadenas <br>
+Utiliza la notación de corchetes para encontrar el enésimo carácter en una cadena <br>
+Utiliza la notación de corchetes para encontrar el último carácter en una cadena <br>
+Utiliza la notación de corchetes para encontrar el carácter enésimo final en una cadena <br>
+Palabra en blanco <br>
+Almacena múltiples valores en una variable utilizando los arreglos de JavaScript <br>
+Anida un arreglo dentro de otro arreglo <br>
+Accede a los datos de un arreglo con índices <br>
+Modifica los datos de un arreglo con índices <br>
+Accede a arreglos multidimensionales con índices <br>
+Manipular arreglos con el método push <br>
+Manipular arreglos con el método pop <br>
+Manipular arreglos con el método shift <br>
+Manipular arreglos con el método unshift <br>
+Lista de compras <br>
+Escribe JavaScript reutilizable utilizando funciones <br>
+Pasa valores a las funciones utilizando argumentos <br>
+Devuelve un valor de una función utilizando "Return" <br>
+Ámbito global y funciones <br>
+Ámbito local y funciones <br>
+Ámbito global vs. local en funciones <br>
+Ámbito global vs. local en funciones <br>
+Comprendiendo el valor indefinido devuelto por una función <br>
+Asignación con un valor devuelto <br>
+Permanece en línea <br>
+Comprende los valores booleanos <br>
+Usa lógica condicional con las sentencias "If" <br>
+Comparación con el operador de igualdad <br>
+Comparación con el operador de estricta igualdad <br>
+Practica comparando diferentes valores <br>
+Comparación con el operador de desigualdad <br>
+Comparación con el operador de estricta desigualdad <br>
+Comparación con el operador "mayor que" <br>
+Comparación con el operador "mayor o igual que" <br>
+Comparación con el operador "menor que" <br>
+Comparación con el operador "menor o igual que" <br>
+Comparaciones con el operador lógico "and" <br>
+Comparaciones con el operador lógico "or" <br>
+Introducción a las sentencias "Else" <br>
+Introducción a las sentencias "Else If" <br>
+Orden lógico de las sentencias "if else" <br>
+Encadena sentencias if else <br>
+Código de golf <br>
+Seleccionando entre muchas opciones con declaración switch <br>
+Agrega una opción predeterminada en las declaraciones switch <br>
+Múltiples opciones idénticas en las declaraciones "switch" <br>
+Reemplazando cadenas de "If Else" por "Switch" <br>
+Devuelve valores booleanos desde funciones <br>
+Patrón de devolución anticipado para funciones <br>
+Conteo de cartas <br>
+Construye objetos en JavaScript <br>
+Accede a propiedades de objetos con notación de puntos <br>
+Accede a propiedades de objetos con notación de corchete <br>
+Accede a propiedades de objetos con variables <br>
+Actualizando las propiedades de un objeto <br>
+Añade nuevas propiedades a un objeto de JavaScript <br>
+Elimina propiedades en un objeto de JavaScript <br>
+Usa objetos para hacer búsquedas <br>
+Verifica las propiedades de un objeto <br>
+Manipulando objectos complejos <br>
+Accede a objetos anidados <br>
+Accede a arreglos anidados <br>
+Colección de discos <br>
+Itera con el bucle "while" de JavaScript <br>
+Itera con los bucles "for" de JavaScript <br>
+Itera números impares con un bucle "for" <br>
+Cuenta hacia atrás con un bucle "for" <br>
+Itera a través de un arreglo con un bucle "for" <br>
+Anida bucles "for" <br>
+Itera con el bucle "do...while" de JavaScript <br>
+Reemplaza bucles usando recursión <br>
+Búsqueda de perfiles <br>
+Genera fracciones aleatorias con JavaScript <br>
+Genera números enteros aleatorios con JavaScript <br>
+Genera números enteros aleatorios dentro de un rango <br>
+Utiliza la función "parseInt" <br>
+Utiliza la función "parseInt" con Radix (Base) <br>
+Usa el operador condicional (ternario) <br>
+Usa múltiples operadores condicionales (ternarios) <br>
+Utiliza recursión para crear una cuenta regresiva <br>
 
-Declara variables de JavaScript
-
-Almacenar valores con el operador de asignación
-Asigna el valor de una variable a otra variable
-Inicializa variables con el operador de asignación
-Declara variables de cadena
-Comprendiendo las variables no inicializadas
-Comprendiendo la sensibilidad de mayúsculas en las variables
-Explora las diferencias entre las palabras claves var y let
-Declara una variable de solo lectura con la palabra clave const
-Suma dos números con JavaScript
-Resta un número de otro con JavaScript
-Multiplica dos números con JavaScript
-Divide un número entre otro con JavaScript
-Incrementa un número con JavaScript
-Decrementa un número con JavaScript
-Crea números decimales con JavaScript
-Multiplica dos números decimales con JavaScript
-Divide un decimal entre otro con JavaScript
-Encuentra un resto en JavaScript
-Asignación compuesta con adición aumentada
-Asignación compuesta con resta aumentada
-Asignación compuesta con multiplicación aumentada
-Asignación compuesta con división aumentada
-Escapa comillas literales en cadenas
-Cita cadenas con comillas simples
-Escapa secuencias en cadenas
-Concatena cadenas con el operador "más"
-Concatena cadenas con el operador "más igual"
-Construye cadenas con variables
-Agrega variables a cadenas
-Encuentra la longitud de una cadena
-Utiliza la notación de corchetes para encontrar el primer carácter en una cadena
-Comprende la inmutabilidad de las cadenas
-Utiliza la notación de corchetes para encontrar el enésimo carácter en una cadena
-Utiliza la notación de corchetes para encontrar el último carácter en una cadena
-Utiliza la notación de corchetes para encontrar el carácter enésimo final en una cadena
-Palabra en blanco
-Almacena múltiples valores en una variable utilizando los arreglos de JavaScript
-Anida un arreglo dentro de otro arreglo
-Accede a los datos de un arreglo con índices
-Modifica los datos de un arreglo con índices
-Accede a arreglos multidimensionales con índices
-Manipular arreglos con el método push
-Manipular arreglos con el método pop
-Manipular arreglos con el método shift
-Manipular arreglos con el método unshift
-Lista de compras
-Escribe JavaScript reutilizable utilizando funciones
-Pasa valores a las funciones utilizando argumentos
-Devuelve un valor de una función utilizando "Return"
-Ámbito global y funciones
-Ámbito local y funciones
-Ámbito global vs. local en funciones
-Comprendiendo el valor indefinido devuelto por una función
-Asignación con un valor devuelto
-Permanece en línea
-Comprende los valores booleanos
-Usa lógica condicional con las sentencias "If"
-Comparación con el operador de igualdad
-Comparación con el operador de estricta igualdad
-Practica comparando diferentes valores
-Comparación con el operador de desigualdad
-Comparación con el operador de estricta desigualdad
-Comparación con el operador "mayor que"
-Comparación con el operador "mayor o igual que"
-Comparación con el operador "menor que"
-Comparación con el operador "menor o igual que"
-Comparaciones con el operador lógico "and"
-Comparaciones con el operador lógico "or"
-Introducción a las sentencias "Else"
-Introducción a las sentencias "Else If"
-Orden lógico de las sentencias "if else"
-Encadena sentencias if else
-Código de golf
-Seleccionando entre muchas opciones con declaración switch
-Agrega una opción predeterminada en las declaraciones switch
-Múltiples opciones idénticas en las declaraciones "switch"
-Reemplazando cadenas de "If Else" por "Switch"
-Devuelve valores booleanos desde funciones
-Patrón de devolución anticipado para funciones
-Conteo de cartas
-Construye objetos en JavaScript
-Accede a propiedades de objetos con notación de puntos
-Accede a propiedades de objetos con notación de corchete
-Accede a propiedades de objetos con variables
-Actualizando las propiedades de un objeto
-Añade nuevas propiedades a un objeto de JavaScript
-Elimina propiedades en un objeto de JavaScript
-Usa objetos para hacer búsquedas
-Verifica las propiedades de un objeto
-Manipulando objectos complejos
-Accede a objetos anidados
-Accede a arreglos anidados
-Colección de discos
-Itera con el bucle "while" de JavaScript
-Itera con los bucles "for" de JavaScript
-Itera números impares con un bucle "for"
-Cuenta hacia atrás con un bucle "for"
-Itera a través de un arreglo con un bucle "for"
-Anida bucles "for"
-Itera con el bucle "do...while" de JavaScript
-Reemplaza bucles usando recursión
-Búsqueda de perfiles
-Genera fracciones aleatorias con JavaScript
-Genera números enteros aleatorios con JavaScript
-Genera números enteros aleatorios dentro de un rango
-Utiliza la función "parseInt"
-Utiliza la función "parseInt" con Radix (Base)
-Usa el operador condicional (ternario)
-Usa múltiples operadores condicionales (ternarios)
-Utiliza recursión para crear una cuenta regresiva
 
  
