@@ -3,7 +3,9 @@ Ejercicios de javaScript de freecodecamp
 Haciendo la certificación de Algoritmos de JavaScript y Estructuras de Datos.
 
 Comenta tu código de JavaScript
+
 Declara variables de JavaScript
+
 Almacenar valores con el operador de asignación
 Asigna el valor de una variable a otra variable
 Inicializa variables con el operador de asignación
